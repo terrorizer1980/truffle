@@ -14,7 +14,7 @@
     "@truffle/compile-solidity": "^4.3.21",
     "colors": "^1.1.2",
     "eslint": "^5.5.0",
-    "minimatch": "^3.0.4"
+    "minimatch": "^3.0.5"
   },
   "devDependencies": {
     "@truffle/config": "^1.2.29",
