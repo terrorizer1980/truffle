@@ -18,7 +18,7 @@
     "@truffle/codec": "^0.6.0",
     "@trufflesuite/chromafi": "^2.1.2",
     "chalk": "^2.4.2",
-    "debug": "^4.1.0",
+    "debug": "^4.3.1",
     "highlight.js": "^9.15.8",
     "highlightjs-solidity": "^1.0.18"
   },
