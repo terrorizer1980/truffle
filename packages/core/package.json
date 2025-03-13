@@ -70,7 +70,7 @@
     "universal-analytics": "^0.4.17",
     "web3": "1.2.1",
     "web3-utils": "1.2.1",
-    "xregexp": "^4.2.4",
+    "xregexp": "^4.3.0",
     "yargs": "^8.0.2"
   },
   "devDependencies": {
