@@ -21,7 +21,7 @@
   "homepage": "https://github.com/trufflesuite/truffle/tree/master/packages/contract-sources#readme",
   "dependencies": {
     "debug": "^4.1.0",
-    "glob": "^7.1.2"
+    "glob": "^11.0.3"
   },
   "publishConfig": {
     "access": "public"
