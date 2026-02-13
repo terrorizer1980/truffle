@@ -20,10 +20,10 @@
     "@truffle/expect": "^0.0.15",
     "@truffle/interface-adapter": "^0.4.16",
     "@truffle/resolver": "^6.0.17",
-    "ganache-core": "2.11.2",
+    "ganache-core": "2.13.2",
     "node-ipc": "^9.1.1",
     "source-map-support": "^0.5.19",
-    "web3": "1.2.1"
+    "web3": "4.0.1"
   },
   "devDependencies": {
     "debug": "^4.1.0"
